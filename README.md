@@ -1,17 +1,21 @@
-# Simple Todo App
+# The Simple ToDo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+This is a simple todo web application project of the Software Engineering program at TripleTen. It was created using Javascript Object-Oriented Programming form along with HTML and CSS.
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+A simple todo app allows users to add, view, edit, and delete todo items, displaying each task with a description and completion status. Additional features may include due dates and the ability to clear completed items.
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+- HTML
+- CSS
+- Javascript
+- Object-Oriented Programming
+- JS Modules
 
 ## Deployment
 
 This project is deployed on GitHub Pages:
 
-- ADD LINK HERE
+- [LINK HERE](https://johansuarezr.github.io/se_project_todo-app)
