@@ -29,7 +29,7 @@ const addTodoPopup = new PopupWithForm({
     const todoElement = generateTodo(todoData);
     section.addItem(todoElement);
 
-    addTodoPopup._popupForm.reset();
+    newTodoValidator.resetValidation();
     addTodoPopup.close();
     handleTodo(false);
   },
